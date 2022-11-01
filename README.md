@@ -11,7 +11,7 @@
 
 ```javascript
 const goals = {
-  what: "learn, build and contribute",
+  what: "learn, build and contribute in web development/blockchain technology",
   code: [Javascript, HTML, CSS, Solidity],
   tools: [Vue, VS Code, Jest, ReMix],
   passions: ["software tech", "web development", "blockchain applications"],
@@ -19,7 +19,7 @@ const goals = {
                    textbooks: ["Packt", "Head First", "Wiley", "O'Reilly"],
                    online: ["Coursera", "Free Code Camp", "Google Launchpad"]
                  },
- challenge: "Continue learning computer programming and growing with a team"
+ challenge: "Continue learning computer programming and growing with a team."
 }
 ```
 
