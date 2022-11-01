@@ -23,6 +23,6 @@ const goals = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love learning and building with others </b> so please say <b>Hi, I'll be so happy to meet and work with you!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love learning and building together. I look forward to meeting and working with you!</b> :)</em>
 
 ---
