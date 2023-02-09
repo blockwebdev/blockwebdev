@@ -15,10 +15,10 @@ const goals = {
   code: [Javascript, HTML, CSS, Solidity],
   tools: [Vue, VS Code, Jest, ReMix],
   passions: ["software tech", "web development", "blockchain applications"],
-  techResources: {
-                   textbooks: ["Packt", "Head First", "Wiley", "O'Reilly"],
-                   online: ["Coursera", "Free Code Camp", "Google Launchpad"]
-                 },
+  techResources: [
+                  { textbooks: ["Packt", "Refactoring", "Wiley", "O'Reilly"] },
+                  { online: ["Coursera", "Udemy", "Head First"] }
+                 ];
  challenge: "Continue learning computer programming and growing with a team."
 }
 ```
