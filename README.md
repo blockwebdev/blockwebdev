@@ -20,7 +20,7 @@ const goals = {
                   { online: ["Coursera", "Udemy", "Head First"] }
                  ];
  challenge: "Continue learning computer programming and growing with a team."
-}
+};
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love learning and building together. I look forward to meeting and working with you!</b> :)</em>
