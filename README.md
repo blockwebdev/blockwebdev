@@ -1,6 +1,6 @@
 <h2> Hi, I'm Chris! <img src="https://media.giphy.com/media/ejDQS4XACVyMkYh6y5/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/6CG1R3R96HXGPeImVU/giphy.gif" width="360">
-<p><em>Meta Coursera JavaScript Certification <a href="https://www.coursera.org/account/accomplishments/verify/NT7QFUQRCB3V">JavaScript</a></br>Meta Coursera HTML/CSS Certification <a href="https://www.coursera.org/account/accomplishments/verify/4HXRXUSXYYAE">HTML/CSS</a></br>Meta Coursera Version Control Certification <a href="https://www.coursera.org/account/accomplishments/verify/DGL6S9TJWBBH">Version Control </a> 
+<p><em>Meta Coursera JavaScript Certification <a href="https://www.coursera.org/account/accomplishments/verify/NT7QFUQRCB3V">JavaScript</a></br>Meta Coursera HTML/CSS Certification <a href="https://www.coursera.org/account/accomplishments/verify/4HXRXUSXYYAE">HTML/CSS</a></a> 
 </em></p>
 
 [![Twitter: blockwebdev](https://img.shields.io/twitter/follow/blockwebdev?style=social)](https://twitter.com/blockwebdev)
