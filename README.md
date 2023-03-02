@@ -11,13 +11,13 @@
 
 ```javascript
 const goals = {
-  what: "learn, build and contribute in web development/blockchain technology",
-  code: [Javascript, HTML, CSS, Solidity],
-  tools: [Vue, VS Code, Jest, ReMix],
-  passions: ["software tech", "web development", "blockchain applications"],
+  what: "learn, build and contribute!",
+  code: ["Javascript", "HTML", "CSS", "Solidity"],
+  tools: ["Vue", "VS Code", "Jest", "ReMix"],
+  passions: ["Dapps", "Web Development", "Reading"],
   techResources: [
-                  { textbooks: ["Packt", "Refactoring", "Wiley", "O'Reilly"] },
-                  { online: ["Coursera", "Udemy", "Head First"] }
+                  { textbooks: "Packt", "Refactoring", "Wiley", "O'Reilly" },
+                  { online: "Coursera", "Udemy", "Head First" }
                  ];
  challenge: "Continue learning computer programming and growing with a team."
 };
