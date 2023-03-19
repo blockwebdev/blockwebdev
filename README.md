@@ -1,6 +1,6 @@
 <h2> Hi, I'm Chris! <img src="https://media.giphy.com/media/ejDQS4XACVyMkYh6y5/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/6CG1R3R96HXGPeImVU/giphy.gif" width="360">
-<p><em>Meta Coursera JavaScript Certification <a href="https://www.coursera.org/account/accomplishments/verify/NT7QFUQRCB3V">JavaScript</a></br>Meta Coursera HTML/CSS Certification <a href="https://www.coursera.org/account/accomplishments/verify/4HXRXUSXYYAE">HTML/CSS</a></br></br>My newest Web Application   &#8594; <a href="https://blockwebdev.github.io/demo-website-app-builds/ordinals_app_rev/index.html">Bitcoin Ordinal Tracker</a></a> 
+<p><em>Meta Coursera JavaScript Certification <a href="https://www.coursera.org/account/accomplishments/verify/NT7QFUQRCB3V">JavaScript</a></br>Meta Coursera HTML/CSS Certification <a href="https://www.coursera.org/account/accomplishments/verify/4HXRXUSXYYAE">HTML/CSS</a></br></br><strong>My newest Web Application   &#8594;</strong> <a href="https://blockwebdev.github.io/demo-website-app-builds/ordinals_app_rev/index.html">Bitcoin Ordinal Tracker</a></a> 
 </em></p>
 
 
