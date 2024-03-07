@@ -14,7 +14,7 @@
 const latestProject = "Bitcoin Ordinal Tracker";
 const goals = {
   what: "learn, build and collaborate!",
-  code: ["Javascript", "HTML", "CSS", "Solidity"],
+  code: ["Javascript", "Clarity" "HTML", "CSS"],
   tools: ["React", "SQL", "Linux", "Ethereum Virtual Machine"],
   passions: ["Web Development", "Cryptocurrency" "Studying"],
   techResources: [
